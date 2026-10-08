@@ -78,4 +78,4 @@ class terminaltool:
 
         # 更新当前目录
         self.current_dir = new_dir
-        return f"✅ 切换到目录: {self.current_dir"
+        return f"✅ 切换到目录: {self.current_dir}"
